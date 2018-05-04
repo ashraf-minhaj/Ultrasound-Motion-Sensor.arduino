@@ -1,5 +1,5 @@
 # Ultrasound-Motion-Sensor.arduino
-This code is for an Ultrasound Motion Sensor device which alerts when and if there's any motion in front of the sensor.
+This code is for an Ultrasound Motion Sensor device which alerts when and if there's any motion is detected in front of the sensor.
 
     int trigger_pin = 2;  
     int echo_pin = 3;
